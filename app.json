@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bolt-expo-nativewind",
-    "slug": "bolt-expo-nativewind",
+    "name": "Beto Portfolio",
+    "slug": "beto-portfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,7 +9,11 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.betoatexpo.betoportfolio",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -42,7 +46,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "7953e62a-5b82-432c-8e6a-04440d21f02f"
+        "projectId": "57de08a5-9fef-4fe0-bad7-e523aee2c318"
       }
     },
     "owner": "betoatexpo"

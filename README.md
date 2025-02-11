@@ -1,6 +1,6 @@
 # Project README
 
-This project was generated using Bolt.new, an AI-powered platform for building apps on the browser. It is an Expo app.
+This project was generated using [Bolt.new](https://bolt.new), an AI-powered platform for building apps on the browser. It is an [Expo app](https://expo.dev).
 
 ## 🌐 Live Demo
 
